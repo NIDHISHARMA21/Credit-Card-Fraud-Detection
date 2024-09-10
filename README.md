@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# CODSOFT | TASK 1 | Credit-Card-Fraud-Detection
 
 ##### This project involves detecting fraudulent credit card transactions using various machine learning models. The dataset used is the Credit Card Fraud Detection dataset, which contains anonymized features of transactions and a target variable indicating fraud.
 
